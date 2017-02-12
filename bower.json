@@ -1,0 +1,11 @@
+{
+  "name": "mobile-template",
+  "description": "mobile-template",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0"
+  }
+}
