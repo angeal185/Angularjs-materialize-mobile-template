@@ -1,8 +1,3 @@
-/*!
- * Materialize v0.97.7 (http://materializecss.com)
- * Copyright 2014-2015 Materialize
- * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
- */
 if ("undefined" == typeof jQuery) {
     var jQuery;
     jQuery = "function" == typeof require ? $ = require("jquery") : $
